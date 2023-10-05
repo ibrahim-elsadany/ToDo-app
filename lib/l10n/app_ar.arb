@@ -1,0 +1,17 @@
+{
+  "settings": "الإعدادات",
+  "lang": "اللغة",
+  "mode": "الثيم",
+   "english": "اللغة الإنجليزية",
+   "arabic": "اللغة العربية",
+   "light": "فاتح",
+   "dark": "مظلم",
+   "addNewTask": "إضافة مهمة جديدة",
+   "labelTitle": "العنوان",
+   "labelTask": "المهمة",
+   "selectTime": "حدد الوقت",
+   "addTask": "أضف المهمة",
+   "editTask": "تعديل المهمة",
+   "saveChanges": "حفظ التغييرات",
+   "delete": "حذف"
+}

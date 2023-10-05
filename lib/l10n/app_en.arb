@@ -1,0 +1,17 @@
+{
+  "settings": "Settings",
+  "lang": "Language",
+  "mode": "Mode",
+  "english": "English",
+  "arabic": "Arabic",
+  "light": "Light",
+  "dark": "Dark",
+  "addNewTask": "Add New Task",
+  "labelTitle": "title",
+  "labelTask": "task",
+  "selectTime": "Select time",
+  "addTask": "Add Task",
+  "editTask": "Edit Task",
+  "saveChanges": "Save Changes",
+  "delete" : "delete"
+}
